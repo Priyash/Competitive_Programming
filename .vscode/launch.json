@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JumpingOnTheClouds",
+            "request": "launch",
+            "mainClass": "Competitive_Programming.JumpingOnTheClouds",
+            "projectName": "VS_CODE_PROJECTS_6eed8d06"
+        }
+    ]
+}
